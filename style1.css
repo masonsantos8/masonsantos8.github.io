@@ -1,0 +1,13 @@
+
+    h1 {
+        color: rgb(85, 15, 236);
+    }  
+    
+    body {
+        background-color: rgb(127, 107, 231);
+    }
+    
+#aboutbody {
+    background-image:url(mybackground.jpg); 
+}
+
